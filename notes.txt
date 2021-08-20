@@ -1,1 +1,2 @@
 brew install git-flow
+develop jako default branch
