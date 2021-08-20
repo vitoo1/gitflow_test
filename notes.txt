@@ -1,1 +1,7 @@
 brew install git-flow
+develop jako default branch
+merger by musiał ogarniać hotfixy do mastera i developa
+zmiany w automatyzacji branchy
+kupić domenke pod productiondevelop (chyba tylko jb)
+zalozyc serwer
+przed migracjami wrzucac baze danych z produkcji
